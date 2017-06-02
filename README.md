@@ -1,4 +1,8 @@
-My Addressbook New Tutorial
+<<<<<<< HEAD
+My Addressbook Tutorial
+=======
+My Addressbooks Tutorial
+>>>>>>> 9baf75afb15a5dbc5abfe966e3ea53a95bd02169
 ====================
 
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
